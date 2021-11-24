@@ -32,7 +32,7 @@ education:
   courses:
     - course: BA in Quantitative Biology
       institution: University of Chicago
-      year: 2017
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
